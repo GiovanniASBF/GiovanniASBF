@@ -14,6 +14,7 @@
 
 <div align ="center" ="display: inline_block">
 <img align="center" alt="JAVA" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="JAVA" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg">
 <img align="center" alt="VsCode" height="47px" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="center" alt="GIT" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 <img align="center" alt="MySQL" height="67px" width="67px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
