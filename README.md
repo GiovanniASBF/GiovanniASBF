@@ -10,15 +10,20 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/giovanni-bernardes-figueiredo)
 
-## Tecnologias e Ferramentas  <br>
+## Linguagens e Ferramentas  <br>
 
-<div align ="center" ="display: inline_block">
-<img align="center" alt="JAVA" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="JAVA" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg">
-<img align="center" alt="VsCode" height="47px" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="center" alt="GIT" height="47px" width="47px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-<img align="center" alt="MySQL" height="67px" width="67px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-<img align="center" alt="Linux" height="57px" width="57px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></div>
+<p align="center"> 
+<a href="https://www.oracle.com/br/java/technologies/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+<a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/pt-br/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" width="40" height="40"/> </a>
+<a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="eclipse" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+</p>
 
 # 📊 GitHub Stats:
 
