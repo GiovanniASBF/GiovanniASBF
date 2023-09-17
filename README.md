@@ -1,16 +1,15 @@
-## Olá, me chame de Giovanni. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="30px">
-
-<div align="center">
- 
-### Developer </div>
+<h1 align="center">Olá 👋, me chame de Giovanni</h1>
+<h3 align="center">Desenvolvedor</h3>
 
 > #### 🎂 22 anos
 > #### 📖:Ciência da computação - Universidade São Judas Tadeu
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/giovanni-bernardes-figueiredo)
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/giovanni-bernardes-figueiredo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giovanni-bernardes-figueiredo" height="30" width="40" /></a>
+</p>
 
-## Linguagens e Ferramentas  <br>
+<h3 align="left">Linguagens e ferramentas:</h3>
 
 <p align="center"> 
 <a href="https://www.oracle.com/br/java/technologies/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -25,7 +24,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-# 📊 GitHub Stats:
+<h3 align="left">Github Stats:</h3>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GiovanniASBF&theme=tokyonight&hide_border=false)<br/>
 
