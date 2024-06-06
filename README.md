@@ -1,15 +1,15 @@
-<h1 align="center">Olá 👋, me chame de Giovanni</h1>
-<h3 align="center">Desenvolvedor</h3>
+<h1 align="center">Hello 👋, call me Giovanni</h1>
+<h3 align="center">Software Engineer</h3>
 
-> #### 🎂 23 anos
-> #### 📖:Ciência da computação - Universidade São Judas Tadeu
+> #### 🎂 23
+> #### 📖:Computer Science - Universidade São Judas Tadeu
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/giovanni-bernardes-figueiredo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giovanni-bernardes-figueiredo" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
+<h3 align="left">Languages and tools:</h3>
 
 <p align="center"> 
 <a href="https://www.oracle.com/br/java/technologies/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
