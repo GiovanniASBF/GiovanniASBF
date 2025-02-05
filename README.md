@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, call me Giovanni</h1>
 <h3 align="center">Software Engineer</h3>
 
-> #### 🎂 23
+> #### 🎂 24
 > #### 📖:Computer Science - Universidade São Judas Tadeu
 
 <h3 align="left">Connect with me:</h3>
@@ -14,7 +14,6 @@
 <p align="center"> 
 <a href="https://www.oracle.com/br/java/technologies/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-<!--<a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/> </a> -->
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="groovy" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
