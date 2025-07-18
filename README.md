@@ -2,6 +2,7 @@
 
 > #### 🎂 24
 > #### 📖:Computer Science - Universidade São Judas Tadeu
+> #### 📖:Software Engineer - 42 São Paulo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
