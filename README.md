@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, call me Giovanni</h1>
+<h1 align="center">Hello! 👋 I'm Giovanni</h1>
 
 > #### 🎂 24
 > #### 📖:Computer Science - Universidade São Judas Tadeu
