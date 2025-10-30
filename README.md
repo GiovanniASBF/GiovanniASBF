@@ -1,6 +1,6 @@
 ### Hi there, I'm Giovanni 👋
 
-I'm Giovanni, a Computer Scientist and current Software Engineering student at 42 São Paulo.
+I'm a Computer Scientist and current Software Engineering student at 42 São Paulo.
 
 * 🌱 Currently focused on the 42SP core curriculum (C, C++, Software Architecture).
 * ☕ Fueled by Java, passionate about Open Source, and an enthusiast of X-Men & One Piece.
